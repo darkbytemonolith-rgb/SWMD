@@ -21,7 +21,7 @@ SWMD (Steam Workshop Management & Download) is a high-performance, professional-
 
 ## 📸 Preview
 
-![Dashboard Preview](https://ibb.co/r22dR40t)
+![Dashboard Preview](https://i.ibb.co/xqqFtJLs/Screenshot-2026-04-23-054132.png)
 *Modern Dashboard with Real-Time Proxy Monitoring and News Strip*
 
 ---

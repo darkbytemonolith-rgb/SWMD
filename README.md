@@ -31,14 +31,14 @@ SWMD (Steam Workshop Management & Download) is a high-performance, professional-
 ## 🛠️ Installation & Usage
 
 ### Option 1: Single-File Executable (Recommended)
-1. Download the latest `SWMD.exe` from the [Releases](https://github.com/darkbytemonolith-rgb/SWMD/releases) page.
+1. Download the latest `SWMD_v1.2.0.exe` from the [Releases](https://github.com/darkbytemonolith-rgb/SWMD/releases) page.
 2. Drop the EXE into any folder.
 3. Run and let SWMD handle the initial SteamCMD setup automatically.
 
 ### Option 2: Portable Folder
 1. Download the ZIP release.
 2. Extract all files (EXE and supporting DLLs) into a folder.
-3. Launch `SWMD.exe`.
+3. Launch `SWMD_v1.2.0.exe`.
 
 ---
 
